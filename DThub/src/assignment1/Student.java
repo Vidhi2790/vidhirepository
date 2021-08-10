@@ -12,7 +12,7 @@ public class Student {
 		Student su=new Student();
 		su.method();
 		System.out.println(su.age);
-		System.out.println(su.rollno);
+		System.out.println("roll no is"+su.rollno);
 	}
 
 }
